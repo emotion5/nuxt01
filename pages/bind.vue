@@ -6,6 +6,6 @@
 
 <script setup>
 import { ref } from 'vue'
-const message = ref('안녕하세요, Vue!')
+const message = ref('안녕하세요, 민!')
 </script>
 
