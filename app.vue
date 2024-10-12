@@ -1,8 +1,9 @@
 <template>
   <div>
-    <NuxtRouteAnnouncer />
+    <!-- <NuxtRouteAnnouncer /> -->
     
-    <SimpleDataBinding />
+    <Three01 />
+    <!-- <SimpleDataBinding /> -->
     
   </div>
 </template>
