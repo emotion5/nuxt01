@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue'
 import axios from 'axios'
 
-const API_URL = 'http://localhost:4000/movies'
+const API_URL = 'https://server-movie-ry3a.onrender.com/movies'
 const movies = ref([])
 const newMovie = ref({ title: '', director: '', year: '', rating: '' })
 const editingMovie = ref(null)
